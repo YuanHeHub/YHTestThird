@@ -1,0 +1,6 @@
+framework module YHTestThird {
+  umbrella header "YHTestThird-umbrella.h"
+
+  export *
+  module * { export * }
+}

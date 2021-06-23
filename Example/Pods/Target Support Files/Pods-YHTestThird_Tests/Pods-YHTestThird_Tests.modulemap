@@ -1,0 +1,6 @@
+framework module Pods_YHTestThird_Tests {
+  umbrella header "Pods-YHTestThird_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
