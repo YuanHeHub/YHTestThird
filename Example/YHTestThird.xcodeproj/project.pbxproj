@@ -494,9 +494,11 @@
 			baseConfigurationReference = 0C7EDB84211F4203A1252CBA /* Pods-YHTestThird_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 0.1.1;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "YHTestThird/YHTestThird-Prefix.pch";
 				INFOPLIST_FILE = "YHTestThird/YHTestThird-Info.plist";
+				MARKETING_VERSION = 0.1.1;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -510,9 +512,11 @@
 			baseConfigurationReference = 88063781790FA0C2B58A3A97 /* Pods-YHTestThird_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 0.1.1;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "YHTestThird/YHTestThird-Prefix.pch";
 				INFOPLIST_FILE = "YHTestThird/YHTestThird-Info.plist";
+				MARKETING_VERSION = 0.1.1;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
