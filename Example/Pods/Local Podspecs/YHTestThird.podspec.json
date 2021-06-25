@@ -1,8 +1,8 @@
 {
   "name": "YHTestThird",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "A short description of YHTestThird.",
-  "description": "TODO: Add long description of the pod here.",
+  "description": "提交新版本",
   "homepage": "https://github.com/15237107499@163.com/YHTestThird",
   "license": {
     "type": "MIT",
@@ -12,11 +12,12 @@
     "15237107499@163.com": "15237107499@163.com"
   },
   "source": {
-    "git": "https://github.com/15237107499@163.com/YHTestThird.git",
-    "tag": "0.1.0"
+    "git": "git@github.com:YuanHeHub/YHTestThird.git",
+    "tag": "0.1.3"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "YHTestThird/Classes/**/*"
+  "source_files": "YHTestThird/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h"
 }

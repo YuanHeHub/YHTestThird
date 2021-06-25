@@ -11,6 +11,7 @@
 #endif
 
 #import "YHLoginTool.h"
+#import "YHPerson.h"
 
 FOUNDATION_EXPORT double YHTestThirdVersionNumber;
 FOUNDATION_EXPORT const unsigned char YHTestThirdVersionString[];

@@ -1,5 +1,5 @@
 PODS:
-  - YHTestThird (0.1.0)
+  - YHTestThird (0.1.3)
 
 DEPENDENCIES:
   - YHTestThird (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YHTestThird: dc8585396c80e0b6f422cae1775e2ef56c4b7cf9
+  YHTestThird: fd0e120a67f10ca15fc0fc65b19831aaec7f02a4
 
 PODFILE CHECKSUM: 1bb8572f62d9f818b29bd855e8a73841e31e8942
 
